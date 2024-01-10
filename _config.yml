@@ -16,7 +16,7 @@ timezone: Asia/Seoul
 
 title: Kotmul # the main title
 
-tagline: 블리츠크랭크 장인 출신입니다. # it will display as the sub-title
+tagline: "인간 시대의 끝이 도래했다." # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -73,7 +73,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://avatars.githubusercontent.com/u/71171652?v=4
+avatar: https://github.com/kotmul/blog-image/assets/71171652/4c215b5c-e583-4bb6-b06b-bd99404fa2b1
 
 # boolean type, the global switch for TOC in posts.
 toc: true
